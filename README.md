@@ -112,6 +112,6 @@ generating live BUY/HOLD/SELL signals from **75K+ price ticks** at **sub 1ms lat
 ## 📫 Reach Me
 
 - 📧 **Email:** [rutwikwagh18@gmail.com](mailto:rutwikwagh18@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/rutwikwagh](https://www.linkedin.com/in/rutwikwagh)
+- 💼 **LinkedIn:** [linkedin.com/in/rutwikwagh](https://www.linkedin.com/in/rutwik-wagh)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:0078D4&height=120&section=footer"/>
